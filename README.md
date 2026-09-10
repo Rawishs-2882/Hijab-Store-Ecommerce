@@ -23,7 +23,7 @@ The site is deployed on Microsoft Azure, making it accessible as a real, hosted 
 ## Tech Stack
 
 <div align="center">
-<img src="https://tech-orbit.wontory.dev/api?title=HijabStore&tech=html5,css3,javascript,mysql,microsoftazure&size=420&duration=20" alt="tech stack orbit" width="420" />
+<img src="https://raw.githubusercontent.com/Rawishs-2882/Hijab-Store-Ecommerce/main/assets/tech-orbit.svg" alt="tech stack orbit" width="380" />
 </div>
 
 HTML5, CSS3 and JavaScript for the frontend, MySQL for the backend database, and Microsoft Azure for hosting and deployment.
